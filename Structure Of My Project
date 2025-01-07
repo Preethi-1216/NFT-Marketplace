@@ -1,0 +1,23 @@
+NFT-Marketplace/
+├── contracts/
+│   ├── NFTMarketplace.sol
+├── scripts/
+│   ├── deploy.js
+├── test/
+│   ├── NFTMarketplace.test.js
+├── frontend/
+│   ├── public/
+│   │   ├── index.html
+│   ├── src/
+│   │   ├── App.js
+│   │   ├── components/
+│   │   │   ├── Header.js
+│   │   │   ├── MintNFT.js
+│   │   │   ├── Marketplace.js
+│   │   │   ├── NFTCard.js
+│   │   └── styles/
+│   │       ├── App.css
+│   ├── package.json
+├── hardhat.config.js
+├── package.json
+├── README.md
